@@ -9,7 +9,6 @@
 
 - Anyway, I main Python 😆 **I also have passion about software engineering concept and devOP**
 
-- Fun fact: **I love everything in GRAPHS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
