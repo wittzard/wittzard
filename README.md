@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Witt</h1>
-<h3 align="center">A Data Sci and operation reserch developer in logistic📦🚚</h3>
 
-- 🔭 I’m work in **data sci project related to Math Optimization (Logistic Routing) and Machine learning including Pipeline and Automation**
 
-- 🌱 I’m currently learning and working about **Developing Web-app ML platform and a lot of data engineering tools for making pipeline and automation**
+- 🔭 I’m work in **Project related to Math Optimization and Machine learning**
+
+- 🌱 I’m currently learning about **Developing Web-app ML platform and a lot of data engineering tools for making pipeline and automation**
 
 - 📃 I’m familiar with **Math optimization model, VRP Problem, Route optimization, heuristic algorithm, GRAPHS**
 
